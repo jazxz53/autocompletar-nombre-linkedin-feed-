@@ -58,7 +58,7 @@ Mi propuesta es diferente y sigue sin existir en el mercado: aplicar esta person
 
 Esta distinción orgánico vs. ads es el núcleo diferencial de la propuesta.
 
-<img width="250" height="350" alt="image" src="https://github.com/user-attachments/assets/cda52b46-e1ef-42e8-859d-cdedc5dd962d" />
+<img width="350" height="450" alt="image" src="https://github.com/user-attachments/assets/cda52b46-e1ef-42e8-859d-cdedc5dd962d" />
 
 __________________
 
