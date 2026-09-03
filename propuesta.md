@@ -43,7 +43,7 @@ __________________
 
 📊 ¡Actualización! He dejado el diseño visual de cómo funcionaría este "Antes y Después" en el primer comentario. ¡Míralo abajo! 👇
 
-<img width="1254" height="1254" alt="Publicacion" src="https://github.com/user-attachments/assets/7098cfca-f461-48cb-a8e7-8ac408e9931f" />
+<img width="627" height="627" alt="Publicacion" src="https://github.com/user-attachments/assets/7098cfca-f461-48cb-a8e7-8ac408e9931f" />
 
 💡¿Si has podido ver el tema te parece que puede ser una idea interesante? ¿Puede ayudar en la búsqueda actual de un trabajo?
 
