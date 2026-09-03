@@ -52,3 +52,19 @@ hashtag#GestionDeProducto
 hashtag#ExperienciaDeUsuario
 hashtag#RecrutamientoTecnologico
 hashtag#Innovacion
+
+__________________
+
+
+⚠️ Nota de actualización (3 de septiembre de 2026)
+
+Tras investigar, confirmo que LinkedIn ya cuenta con una función de personalización dinámica (%FIRSTNAME%, %LASTNAME%, %COMPANYNAME%, %JOBTITLE%) — pero está limitada exclusivamente a anuncios pagados (Sponsored Messaging y Dynamic Ads).
+
+Mi propuesta es diferente y sigue sin existir en el mercado: aplicar esta personalización dinámica a publicaciones orgánicas (posts normales, no pagados) del feed, activada por coincidencia con criterios de búsqueda o intereses del creador — no solo con datos estáticos del perfil (nombre/empresa/cargo), sino con lógica de matching configurable (Modo Estricto / Modo Amplio).
+
+Esta distinción orgánico vs. ads es el núcleo diferencial de la propuesta.
+
+<img width="690" height="577" alt="image" src="https://github.com/user-attachments/assets/cda52b46-e1ef-42e8-859d-cdedc5dd962d" />
+
+
+
