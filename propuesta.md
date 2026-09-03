@@ -2,7 +2,7 @@
 
 ⚠️ Asunto: 
 
-Esta es una propuesta conceptual de mi autoría, sin afiliación ni respaldo de LinkedIn Corp.
+Esta es una propuesta conceptual de mi autoría, sin afiliación ni respaldo de oficial.
 
 Propuesta de función: Atributo dinámico "[Autocompletar Nombre]" para publicaciones y búsquedas segmentadas. 
 
